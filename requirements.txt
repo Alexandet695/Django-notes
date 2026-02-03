@@ -1,0 +1,7 @@
+asgiref==3.11.1
+autopep8==2.3.2
+Django==6.0.2
+pycodestyle==2.14.0
+sqlparse==0.5.5
+toml==0.10.2
+tzdata==2025.3
